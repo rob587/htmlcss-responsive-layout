@@ -5,10 +5,24 @@
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
-    padding: ;
   }
 
   .container{
     padding: 20px;
+  }
+
+  .recipe-origin{
+    display: inline;
+  }
+
+    .recipe-category {
+    justify-self: start;
+  }
+
+    .recipe-name {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    flex-wrap: wrap;
   }
 }
