@@ -37,4 +37,14 @@
     padding:10px 40px;
     width: 50%;
   }
+
+  .ads{
+    display: inline;
+  }
+
+  .ads img{
+    margin: 30px 0px;
+  }
+
+
 }
