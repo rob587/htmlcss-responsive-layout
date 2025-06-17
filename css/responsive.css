@@ -1,1 +1,9 @@
 /* Soluzione qui */
+
+@media all and (min-width: 768px){
+  #topbar{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+}
