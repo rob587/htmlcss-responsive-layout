@@ -27,5 +27,11 @@
     font-size: 37px;
   }
 
-  
+  .quick-notes ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    width: 100%;
+    
+  }
 }
