@@ -60,4 +60,20 @@
      .recipe-name {
    font-size: 45px;    
   }
+
+  .recipe-card{
+    display: flex;
+    width: 100%;
+  }
+
+  .recipe-video{
+    width: 200%;
+
+  }
+
+  .quick-notes{
+    width: 50%;
+    display: block;
+
+  }
 }
