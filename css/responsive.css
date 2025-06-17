@@ -24,7 +24,7 @@
     align-items: baseline;
     gap: 10px;
     flex-wrap: wrap;
-    font-size: 37px;
+    font-size: 35px;
   }
 
   .quick-notes ul{
@@ -48,5 +48,9 @@
 
 .clearfix img{
     float: left;
+}
+
+.btn-orange{
+    padding: 10px 15px;
 }
 }
