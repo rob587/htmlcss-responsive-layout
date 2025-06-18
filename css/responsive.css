@@ -30,13 +30,8 @@
   .quick-notes ul{
     display: flex;
     flex-wrap: wrap;
+    gap: 40px;
   }
-
-  .quick-notes ul li{
-    width: calc(100% / 3);
-  }
-
-
 
   .btn{
     padding:10px 40px;
@@ -73,15 +68,15 @@
 
   .recipe-video{
     width: 200%;
+    max-height: 500px;
   }
 
-  .quick-notes{
-    width: 50%;
-    display: block;
+  .quick-notes ul li{
+    width: 100%;
   }
 
   .social-networks .label{
-    display:flex;
+    display:inline;
   }
 
 
