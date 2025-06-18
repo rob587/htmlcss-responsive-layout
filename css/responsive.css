@@ -7,7 +7,7 @@
     align-items: flex-start;
   }
 
-  .container{
+  main{
     padding: 20px;
   }
 
@@ -30,8 +30,13 @@
   .quick-notes ul{
     display: flex;
     flex-wrap: wrap;
-    gap: 40px;
   }
+
+  .quick-notes ul li{
+    width: calc(100% / 3);
+  }
+
+
 
   .btn{
     padding:10px 40px;
