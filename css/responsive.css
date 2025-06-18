@@ -1,5 +1,14 @@
 /* Soluzione qui */
 
+@media screen and (min-width: 576px){
+ .clearfix img{
+    float: left;
+    margin-right: 20px;
+}
+}
+
+
+
 @media all and (min-width: 768px){
   #topbar{
     display: flex;
